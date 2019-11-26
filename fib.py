@@ -5,4 +5,4 @@ def fib(n,k):
         ralive.append(offspring+ralive[-1])
     return ralive
 
-print(fib(29, 4)[-2])
+print(fib(33, 4)[-2])
